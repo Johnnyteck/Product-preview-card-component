@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-JqN9LxKlRZ](https://bit.ly/3AvAyK7)
-- Live Site URL: [https://johnnyteck.github.io/Product-preview-card-component/](https://bit.ly/3At41nY)
+- Solution URL: [https://bit.ly/3AvAyK7](https://www.frontendmentor.io/solutions/product-preview-card-JqN9LxKlRZ)
+- Live Site URL: [https://bit.ly/3At41nY](https://johnnyteck.github.io/Product-preview-card-component/)
 
 ## My process
 
