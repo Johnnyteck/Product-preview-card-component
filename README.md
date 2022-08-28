@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-JqN9LxKlRZ](https://bit.ly/3AvAyK7)
+- Live Site URL: [https://johnnyteck.github.io/Product-preview-card-component/](https://bit.ly/3At41nY)
 
 ## My process
 
@@ -38,6 +38,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [www.github.com/johnnyteck](https://www.github.com/johnnytech)
+- Frontend Mentor - [@Johnnyteck](https://www.frontendmentor.io/profile/johnnyteck)
+- Twitter - [@JonnieDev](https://www.twitter.com/JonnieDev)
